@@ -1,11 +1,17 @@
-1.TLS
+1.对称加密，非对称加密，单向加密，安全随机数
 
-2.DOS,DDOS,ReDOS
+2.TLS
 
-3.SQL注入
+3.DOS,DDOS,ReDOS
 
-4.XSS
+4.SQL注入
 
-5.CSRF
+5.XSS
 
-6.混淆
+6.CSRF
+
+7.混淆
+
+8.Root
+
+9.反编译
