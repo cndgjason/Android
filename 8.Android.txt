@@ -161,3 +161,13 @@
   就是在一个 app 中，启用双进程，如果有一个进程被杀了，另一个进程马上重新拉起这个进程，
   两个进程互相守护以达到保活的目的。 基础配置就是两个保活的逻辑 Service 和一个用于进程间通讯的 ADIL 文件。
 
+24.ViewModel,LiveData
+
+25.OkHttp,Retrofit
+
+26.Room
+
+27.Glide
+
+28.LeakCanary
+
