@@ -190,3 +190,6 @@ StringBuffer：变量，线程安全
 
      Minar GC：当Eden区满时，触发Minor GC
      Full GC：收集整个堆，包括新生代，老年代，永久代(在 JDK 1.8 及以后，永久代被移除，换为 metaspace 元空间)等所有部分的模式
+
+     类文件结构：
+     
