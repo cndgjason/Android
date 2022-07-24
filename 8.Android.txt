@@ -162,12 +162,16 @@
   两个进程互相守护以达到保活的目的。 基础配置就是两个保活的逻辑 Service 和一个用于进程间通讯的 ADIL 文件。
 
 24.ViewModel,LiveData
+   MVVM基础：Model,(Activity,Fragment),(ViewModel + LiveData)
 
 25.OkHttp,Retrofit
+   HTTP基础
 
 26.Room
+   SQLite基础
 
 27.Glide
+   图片基础，处理好缓存
 
 28.LeakCanary
-
+   内存泄漏检测

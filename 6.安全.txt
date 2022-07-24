@@ -3,6 +3,7 @@
 2.TLS
 
 3.DOS,DDOS,ReDOS
+  本质是需求大而算力低
 
 4.SQL注入
 
