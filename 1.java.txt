@@ -193,7 +193,7 @@ StringBuffer：变量，线程安全
      Full GC：收集整个堆，包括新生代，老年代，永久代(在 JDK 1.8 及以后，永久代被移除，换为 metaspace 元空间)等所有部分的模式
 
      
-17.类文件结构：
+17.类文件结构（16个）：
  ClassFile {
     u4             magic; //Class 文件的标志
     u2             minor_version;//Class 的小版本号
